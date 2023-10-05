@@ -39,7 +39,7 @@ Covid_no %>% mutate(Gender=ifelse(Gender==1,"Male","Female"),Age=case_when(
   ),MSU_Campus=case_when(
     MSU_Campus==1~"Gweru",
     MSU_Campus==2~"Zvishavane",
-    MSU_Campus==1~"Harare"
+    MSU_Campus==3~"Harare"
   ))->Covid_data
 
 ```
