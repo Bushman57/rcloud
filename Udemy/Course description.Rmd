@@ -1,0 +1,84 @@
+---
+title: "Course description"
+output: html_notebook
+---
+
+```{r}\
+Link Collection
+The course Project App
+
+https://r-analytic.shinyapps.io/mining_proj/
+
+---------------------------------------------------------------------------------
+
+1. General intro material you can use parallel to this course
+
+General shiny video tutorial by RStudio
+
+http://shiny.rstudio.com/tutorial/
+
+Good text based tutorial by Zev Ross
+
+http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/
+
+2. Tutorials for some of the packages we use in the course
+
+datatables package - source of the DT package we are using in the course
+
+https://www.datatables.net/reference/option/
+
+The highcharter package with some examples
+
+http://jkunst.com/highcharter/
+
+Ggplot2 cheat sheet
+
+https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
+
+3. Resources to deploy/share your app
+
+Shinyapps.io is the default deployment platform for shiny
+
+https://www.shinyapps.io/
+
+Shiny server for your homegrown server supporting shiny
+
+https://www.rstudio.com/products/shiny/shiny-server/
+
+Shinyproxy as an alternative server solution to shiny server pro
+
+http://www.shinyproxy.io/
+
+4. Shiny code resources
+
+Available shiny functions
+
+http://shiny.rstudio.com/reference/shiny/latest/
+
+The shiny input widget gallery
+
+http://shiny.rstudio.com/gallery/widget-gallery.html
+
+Shiny layout guide
+
+http://shiny.rstudio.com/articles/layout-guide.html
+
+All available help articles by RStudio
+
+http://shiny.rstudio.com/articles/
+
+5. Advanced resources you will need when developing your own app
+
+Stackoverflow community for shiny related questions (best help source)
+
+http://stackoverflow.com/questions/tagged/shiny
+
+Shiny gallery including code for inspiration
+
+http://shiny.rstudio.com/gallery/
+
+More advanced shiny examples
+
+https://www.rstudio.com/products/shiny/shiny-user-showcase/
+```
+

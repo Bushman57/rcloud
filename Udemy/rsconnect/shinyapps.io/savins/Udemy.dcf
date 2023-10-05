@@ -1,0 +1,14 @@
+name: Udemy
+title: Udemy
+username:
+account: savins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9555856
+bundleId: 7539100
+url: https://savins.shinyapps.io/Udemy/
+when: 1691402589.53014
+lastSyncTime: 1691402589.53018
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|01_enter_self_data/.secrets/7a6077d23f6776ccc63f8f70bc12b214_savinskamau01@gmail.com|01_enter_self_data/.secrets/c13dc354db9600c8cd9b2bd868d1bf25_savinskamau01@gmail.com|Advanced database.R|Advanced shiny app.R|appp.R|BasicPage.R|Brush and click.R|Changing themes.R|Course description.nb.html|Course description.Rmd|course_proj_data.csv|Exportind data as csv.R|HTML tags.R|Intergation media files.R|Layout-Tabset.R|Making the app reactive.R|mining.csv|plotextract.csv|prac1.R|Project.R|Rep_project.R|Survey_app1.R|Thompson_2021.csv|Tourism.R|Udemy project.R|Using two button.nb.html|Using two button.Rmd|www/Image1.jpg|www/pic.jpg|www/Thomson.docx

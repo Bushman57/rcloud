@@ -1,0 +1,13 @@
+name: Hotel
+title: Hotel
+username:
+account: savins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9728250
+bundleId: 7629574
+url: https://savins.shinyapps.io/Hotel/
+when: 1693471855.1078
+lastSyncTime: 1693471855.10784
+asMultiple: FALSE
+asStatic: FALSE

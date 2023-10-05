@@ -1,0 +1,12 @@
+name: Hotel_App
+title: Hotel_App
+username:
+account: savins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9745934
+bundleId: 7750370
+url: https://savins.shinyapps.io/Hotel_App/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|01_enter_self_data/.secrets/7a6077d23f6776ccc63f8f70bc12b214_savinskamau01@gmail.com|01_enter_self_data/.secrets/c13dc354db9600c8cd9b2bd868d1bf25_savinskamau01@gmail.com|Advanced database.R|Advanced shiny app.R|appp.R|BasicPage.R|Brush and click.R|Changing themes.R|Course description.nb.html|Course description.Rmd|course_proj.csv|Exportind data as csv.R|Hotel_prac.R|HTML tags.R|Intergation media files.R|kitchen_analysis.csv|Layout-Tabset.R|Making the app reactive.R|mining.csv|plotextract.csv|prac1.R|Project.R|Rep_project.R|stock sample.xlsx|Survey_app1.R|Thompson_2021.csv|Thompson_App.R|Tourism.R|Udemy project.R|Using two button.nb.html|Using two button.Rmd|www/Image1.jpg|www/pic.jpg|www/pic.png|www/Thomson.docx
