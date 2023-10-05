@@ -8,7 +8,7 @@ server<-function(){
 library(shiny)
 
 ui <- fluidPage(
-  selectize
+  selectizeInput()
 )
 
 server <- function(input, output, session) {
