@@ -1,0 +1,501 @@
+"","Gender","Age","Level_of_study","MSU_Campus","Y.o.S","Working_memory","intention","Technology_perception","accessibility","Technical_support","Time"
+"1","Female","31 to 45 years","Undergraduate","Gweru","Third",2,4,1,4,3,4
+"2","Female","21 to 30 years","Masters","Zvishavane","Third",3,2,2,2,1,2
+"3","Male","31 to 45 years","PHD",NA,"First",3,2,2,2,1,4
+"4","Male","21 to 30 years","Undergraduate","Gweru","Fourth",3,2,4,3,4,3
+"9","Male","31 to 45 years","Bachelors","Zvishavane","Third",4,3,5,2,4,5
+"12","Female","21 to 30 years","Undergraduate","Gweru","Fourth",2,2,5,3,4,5
+"13","Female","21 to 30 years","Masters",NA,"Fifth",4,4,5,5,1,2
+"14","Male","31 to 45 years","Masters","Gweru","Fourth",4,2,4,5,3,3
+"15","Female","21 to 30 years","PHD",NA,"Fifth",4,4,5,2,3,2
+"18","Male","21 to 30 years","Masters","Zvishavane","Second",3,3,2,1,3,5
+"21","Male","31 to 45 years","Undergraduate","Zvishavane","Third",4,2,2,2,5,5
+"22","Male","21 to 30 years","Undergraduate",NA,"Above 5Year",3,2,1,1,4,4
+"24","Male","21 to 30 years","Bachelors","Zvishavane","Third",3,4,1,2,4,4
+"26","Male","21 to 30 years","PHD","Gweru","Third",2,4,4,2,2,5
+"28","Female","21 to 30 years","PHD","Gweru","First",1,3,4,4,5,2
+"29","Female","31 to 45 years","Undergraduate","Zvishavane","Above 5Year",4,1,2,2,2,5
+"31","Female","21 to 30 years","Masters",NA,"Above 5Year",5,1,1,2,2,5
+"32","Male","21 to 30 years","Masters",NA,"Third",5,4,4,5,1,5
+"33","Female","31 to 45 years","Undergraduate",NA,"Fifth",5,1,2,1,2,2
+"35","Female","21 to 30 years","Undergraduate","Zvishavane","Fifth",4,4,5,2,3,4
+"36","Male","21 to 30 years","PHD","Gweru","Fifth",1,4,2,1,1,5
+"37","Female","31 to 45 years","Masters","Gweru","Above 5Year",1,2,4,5,5,2
+"38","Female","21 to 30 years","Undergraduate","Zvishavane","Fourth",2,3,2,1,1,2
+"39","Male","21 to 30 years","PHD",NA,"First",2,2,3,4,1,1
+"40","Female","21 to 30 years","PHD",NA,"Above 5Year",4,2,1,3,1,3
+"41","Female","21 to 30 years","Masters","Zvishavane","Second",5,1,4,2,4,4
+"42","Female","21 to 30 years","Masters","Gweru","Third",1,2,5,1,2,2
+"43","Male","31 to 45 years","Bachelors",NA,"Second",5,2,2,5,3,5
+"44","Female","31 to 45 years","Bachelors",NA,"Second",3,5,1,2,4,1
+"46","Male","21 to 30 years","PHD","Zvishavane","Fourth",2,5,4,2,3,4
+"47","Female","21 to 30 years","Masters",NA,"Third",2,2,3,5,4,1
+"48","Female","31 to 45 years","Masters","Zvishavane","Second",1,4,1,3,1,4
+"49","Female","21 to 30 years","Undergraduate","Gweru","Second",2,4,5,4,3,4
+"50","Female","31 to 45 years","Bachelors","Gweru","Fourth",4,2,5,5,1,1
+"51","Female","21 to 30 years","Undergraduate","Zvishavane","Fifth",4,5,5,1,3,4
+"54","Male","21 to 30 years","Undergraduate","Gweru","Above 5Year",2,4,2,5,4,5
+"55","Male","31 to 45 years","PHD","Gweru","Fifth",4,2,5,4,5,1
+"56","Male","21 to 30 years","Bachelors",NA,"Third",3,2,5,5,2,3
+"57","Female","21 to 30 years","Undergraduate","Zvishavane","First",4,3,2,2,1,5
+"59","Male","21 to 30 years","Undergraduate",NA,"Fourth",2,1,4,2,2,4
+"62","Female","21 to 30 years","Undergraduate","Gweru","Fifth",2,3,2,3,4,3
+"64","Female","21 to 30 years","Masters",NA,"Above 5Year",1,2,5,3,4,1
+"66","Male","31 to 45 years","Masters","Zvishavane","Fifth",2,5,2,1,1,1
+"67","Male","21 to 30 years","PHD","Zvishavane","First",5,5,4,1,2,5
+"68","Male","21 to 30 years","Masters","Gweru","Above 5Year",1,1,2,4,3,1
+"71","Female","21 to 30 years","Undergraduate",NA,"Second",2,2,1,2,4,3
+"72","Female","21 to 30 years","PHD","Gweru","Fifth",1,5,5,3,5,2
+"74","Female","21 to 30 years","Bachelors","Zvishavane","Third",3,5,1,2,1,5
+"75","Female","21 to 30 years","Bachelors",NA,"Above 5Year",5,3,5,5,1,2
+"76","Male","21 to 30 years","PHD","Zvishavane","Fourth",2,3,4,1,3,2
+"78","Female","31 to 45 years","Bachelors","Zvishavane","First",5,4,5,2,2,2
+"79","Female","21 to 30 years","Bachelors",NA,"Second",1,3,5,3,3,4
+"80","Female","21 to 30 years","Undergraduate",NA,"Fourth",3,3,4,2,1,1
+"82","Female","21 to 30 years","Masters","Gweru","Above 5Year",5,3,1,2,3,4
+"83","Female","21 to 30 years","Bachelors",NA,"Second",4,2,5,1,1,1
+"84","Male","31 to 45 years","Masters","Gweru","Second",4,3,5,2,4,4
+"87","Male","31 to 45 years","Masters","Gweru","First",4,3,5,4,1,4
+"88","Male","21 to 30 years","Bachelors","Gweru","Fourth",3,3,2,2,2,1
+"89","Male","21 to 30 years","Bachelors","Gweru","Third",3,5,3,4,1,5
+"93","Male","21 to 30 years","Undergraduate",NA,"Third",4,2,1,4,4,2
+"94","Female","21 to 30 years","PHD","Zvishavane","First",3,3,2,5,3,3
+"96","Female","31 to 45 years","Undergraduate","Zvishavane","Fourth",1,4,5,3,3,5
+"97","Male","21 to 30 years","Bachelors","Zvishavane","Third",2,5,2,4,5,1
+"98","Male","31 to 45 years","Bachelors","Gweru","Third",1,1,2,5,5,2
+"99","Male","31 to 45 years","PHD","Zvishavane","Above 5Year",1,2,5,4,1,4
+"100","Male","31 to 45 years","Masters","Zvishavane","Above 5Year",4,1,1,1,2,5
+"102","Female","21 to 30 years","Masters","Zvishavane","First",4,3,2,5,3,4
+"103","Female","31 to 45 years","PHD",NA,"First",5,3,1,3,1,4
+"104","Female","21 to 30 years","Bachelors","Gweru","Fifth",4,2,1,5,5,1
+"105","Female","21 to 30 years","PHD","Gweru","Above 5Year",4,2,2,2,2,2
+"106","Female","31 to 45 years","PHD","Gweru","Above 5Year",4,1,4,1,5,1
+"107","Female","31 to 45 years","Bachelors",NA,"First",1,2,3,3,5,2
+"108","Female","31 to 45 years","Masters",NA,"Fifth",5,4,5,5,3,4
+"109","Male","21 to 30 years","Bachelors","Zvishavane","Fourth",2,1,2,1,1,5
+"110","Female","21 to 30 years","Bachelors","Zvishavane","Above 5Year",1,5,4,2,3,1
+"112","Male","31 to 45 years","Masters",NA,"Second",1,2,2,3,2,3
+"114","Female","31 to 45 years","Bachelors","Gweru","Above 5Year",5,5,2,2,4,3
+"115","Female","31 to 45 years","Masters","Gweru","Third",2,2,1,5,5,2
+"116","Male","21 to 30 years","Bachelors","Gweru","Above 5Year",2,2,5,3,4,1
+"117","Female","21 to 30 years","PHD",NA,"Second",1,1,4,4,5,3
+"118","Male","21 to 30 years","Bachelors","Zvishavane","Fourth",1,4,3,4,5,5
+"120","Male","21 to 30 years","Undergraduate","Zvishavane","Second",5,2,3,2,3,1
+"122","Female","31 to 45 years","Undergraduate","Zvishavane","Third",4,1,2,1,2,3
+"123","Male","31 to 45 years","Masters",NA,"Second",2,5,5,1,5,4
+"127","Male","31 to 45 years","Masters","Gweru","Fifth",1,4,1,2,3,5
+"128","Female","31 to 45 years","Undergraduate",NA,"Third",3,1,4,3,1,1
+"129","Male","21 to 30 years","Bachelors",NA,"Fifth",4,4,1,4,5,2
+"130","Female","21 to 30 years","Masters",NA,"First",1,1,3,3,3,3
+"131","Female","21 to 30 years","Bachelors","Gweru","First",5,5,5,1,1,5
+"133","Female","21 to 30 years","Bachelors","Gweru","Third",1,1,1,1,1,3
+"134","Female","21 to 30 years","PHD",NA,"Fifth",1,4,5,4,2,4
+"136","Female","31 to 45 years","Bachelors","Zvishavane","Second",5,1,2,5,3,5
+"137","Male","21 to 30 years","Undergraduate","Zvishavane","First",5,1,5,5,3,1
+"138","Female","31 to 45 years","Undergraduate","Gweru","Fourth",5,2,1,5,3,3
+"139","Female","21 to 30 years","Bachelors","Gweru","Third",5,3,1,3,2,3
+"140","Male","21 to 30 years","PHD",NA,"First",2,2,3,3,2,3
+"143","Female","21 to 30 years","PHD",NA,"Second",3,5,2,1,2,4
+"144","Male","21 to 30 years","PHD","Gweru","Fifth",4,3,5,3,2,5
+"145","Male","21 to 30 years","PHD","Zvishavane","Fifth",3,4,1,1,1,1
+"146","Female","21 to 30 years","PHD","Gweru","Above 5Year",1,1,1,4,3,4
+"148","Female","31 to 45 years","Bachelors","Gweru","Fifth",1,1,2,4,2,3
+"150","Male","21 to 30 years","PHD",NA,"Fourth",2,5,1,1,4,3
+"151","Female","21 to 30 years","Bachelors","Gweru","First",2,3,4,5,3,4
+"154","Male","31 to 45 years","Undergraduate",NA,"First",2,4,5,5,5,1
+"155","Female","21 to 30 years","Masters","Zvishavane","Third",5,4,4,4,1,2
+"157","Female","21 to 30 years","Undergraduate","Gweru","First",4,4,4,4,5,2
+"158","Female","31 to 45 years","Masters","Zvishavane","Above 5Year",2,5,1,4,1,2
+"159","Male","21 to 30 years","Undergraduate","Gweru","Fourth",5,4,5,5,2,1
+"164","Female","21 to 30 years","Undergraduate","Zvishavane","Fourth",3,1,2,3,4,3
+"166","Female","21 to 30 years","Masters","Zvishavane","Second",4,1,1,1,5,5
+"169","Male","31 to 45 years","PHD",NA,"Fifth",1,4,3,4,1,1
+"170","Male","21 to 30 years","Undergraduate","Zvishavane","Above 5Year",4,3,1,4,2,4
+"171","Female","31 to 45 years","Bachelors",NA,"Fifth",3,1,1,5,3,2
+"172","Male","31 to 45 years","PHD",NA,"Fifth",4,2,1,4,3,2
+"174","Male","21 to 30 years","PHD","Gweru","First",4,2,1,1,2,5
+"175","Female","21 to 30 years","Bachelors","Gweru","Third",2,1,5,4,5,1
+"176","Female","21 to 30 years","Bachelors","Gweru","Above 5Year",2,5,2,2,4,5
+"178","Male","21 to 30 years","Bachelors",NA,"Second",1,3,4,1,3,3
+"180","Female","21 to 30 years","PHD","Zvishavane","Fifth",4,1,1,1,4,4
+"181","Female","21 to 30 years","Masters",NA,"Fourth",4,1,2,3,3,4
+"182","Female","31 to 45 years","Bachelors","Zvishavane","Above 5Year",2,4,2,1,2,3
+"184","Female","21 to 30 years","PHD",NA,"First",3,4,2,4,2,3
+"185","Male","31 to 45 years","Bachelors",NA,"Fourth",3,3,1,5,1,4
+"186","Female","21 to 30 years","PHD",NA,"First",4,4,4,3,1,3
+"187","Male","21 to 30 years","PHD","Gweru","First",4,4,3,2,2,4
+"188","Female","21 to 30 years","Bachelors","Zvishavane","Second",5,4,2,3,1,3
+"189","Male","21 to 30 years","Bachelors","Zvishavane","Fifth",1,5,1,5,2,4
+"193","Male","21 to 30 years","PHD","Gweru","Fourth",5,5,4,3,5,4
+"194","Male","21 to 30 years","Undergraduate","Gweru","Fifth",4,3,3,1,5,4
+"195","Male","21 to 30 years","Undergraduate","Zvishavane","Second",1,1,4,4,2,3
+"196","Female","21 to 30 years","Undergraduate","Gweru","Second",1,3,2,4,4,1
+"197","Female","21 to 30 years","PHD",NA,"First",4,3,3,4,1,5
+"198","Male","21 to 30 years","Masters",NA,"Above 5Year",5,1,2,1,1,1
+"200","Male","31 to 45 years","Masters","Gweru","First",5,2,1,4,5,5
+"201","Male","21 to 30 years","PHD","Zvishavane","Second",4,1,1,4,5,4
+"203","Female","31 to 45 years","PHD",NA,"Second",4,2,2,3,1,5
+"204","Female","21 to 30 years","Undergraduate","Zvishavane","Fifth",3,2,1,4,3,1
+"205","Male","21 to 30 years","PHD",NA,"First",1,1,5,4,3,2
+"206","Female","21 to 30 years","Bachelors",NA,"Fourth",4,3,2,3,3,5
+"207","Male","31 to 45 years","PHD","Gweru","Fourth",4,2,1,2,5,2
+"209","Male","31 to 45 years","PHD","Gweru","Second",5,4,2,3,3,5
+"210","Male","21 to 30 years","Undergraduate","Gweru","Fifth",5,1,4,3,2,1
+"211","Female","21 to 30 years","PHD",NA,"Third",3,2,4,5,3,1
+"213","Female","31 to 45 years","Bachelors",NA,"Fifth",3,3,4,4,4,4
+"216","Male","31 to 45 years","PHD","Zvishavane","Second",4,2,4,3,1,1
+"217","Male","21 to 30 years","Bachelors",NA,"Fifth",2,2,4,3,5,4
+"219","Female","31 to 45 years","Bachelors","Gweru","Second",4,2,5,1,4,2
+"221","Female","21 to 30 years","Undergraduate","Gweru","Fourth",5,2,5,5,3,5
+"222","Male","21 to 30 years","Masters","Gweru","Fifth",3,5,3,2,3,5
+"223","Female","31 to 45 years","Undergraduate",NA,"Second",1,5,3,1,1,3
+"224","Female","21 to 30 years","Undergraduate","Gweru","First",2,5,3,4,5,2
+"225","Male","31 to 45 years","Bachelors","Gweru","Second",4,1,4,3,4,4
+"227","Female","21 to 30 years","PHD",NA,"Fourth",2,4,3,5,3,3
+"228","Male","31 to 45 years","Bachelors","Zvishavane","Second",2,4,3,3,5,4
+"229","Male","31 to 45 years","PHD",NA,"First",4,1,1,3,2,5
+"230","Female","31 to 45 years","Undergraduate","Zvishavane","Fifth",1,5,3,4,1,2
+"231","Female","21 to 30 years","PHD",NA,"Fifth",2,2,2,3,3,4
+"232","Female","21 to 30 years","Masters",NA,"Fifth",5,2,3,3,5,5
+"233","Male","21 to 30 years","Bachelors","Gweru","Second",1,1,1,1,1,5
+"235","Male","31 to 45 years","Undergraduate","Zvishavane","Second",2,3,2,5,2,5
+"237","Female","31 to 45 years","Masters","Zvishavane","Fifth",4,3,3,1,5,2
+"238","Male","31 to 45 years","Bachelors","Gweru","Third",3,1,2,1,1,5
+"239","Female","21 to 30 years","PHD",NA,"Fifth",5,2,1,3,2,5
+"240","Female","31 to 45 years","Bachelors","Zvishavane","Above 5Year",2,3,2,1,1,5
+"242","Female","31 to 45 years","PHD","Zvishavane","Second",3,5,1,4,1,5
+"243","Female","31 to 45 years","Masters","Zvishavane","Fifth",4,3,5,5,5,5
+"245","Male","31 to 45 years","PHD","Gweru","Third",2,3,2,5,3,4
+"246","Male","21 to 30 years","Masters",NA,"First",1,4,4,3,2,4
+"247","Male","31 to 45 years","Masters",NA,"Second",2,4,2,1,4,4
+"248","Female","21 to 30 years","Bachelors","Zvishavane","Third",3,1,1,5,3,1
+"252","Male","31 to 45 years","Bachelors","Zvishavane","Fourth",1,4,2,3,2,1
+"253","Male","31 to 45 years","Masters",NA,"Fifth",4,4,1,3,5,2
+"255","Male","21 to 30 years","Masters",NA,"Third",2,2,3,5,1,4
+"256","Male","21 to 30 years","PHD","Gweru","First",4,3,3,1,2,5
+"258","Female","21 to 30 years","PHD","Gweru","First",1,1,5,3,5,4
+"259","Male","21 to 30 years","PHD","Zvishavane","Fifth",5,4,4,3,1,4
+"262","Male","21 to 30 years","Bachelors","Gweru","Fifth",2,2,4,1,5,1
+"264","Female","21 to 30 years","PHD","Gweru","Fourth",4,4,4,4,2,4
+"265","Female","31 to 45 years","Masters","Zvishavane","First",3,1,5,3,2,4
+"266","Female","21 to 30 years","PHD","Gweru","First",4,1,2,4,3,2
+"267","Male","21 to 30 years","Bachelors","Gweru","Second",2,4,5,3,2,2
+"268","Male","21 to 30 years","PHD",NA,"Above 5Year",4,4,2,5,5,4
+"269","Male","31 to 45 years","Undergraduate","Zvishavane","Second",3,5,1,3,4,4
+"271","Male","21 to 30 years","Bachelors","Zvishavane","Third",1,5,5,3,4,3
+"272","Female","31 to 45 years","Bachelors","Zvishavane","Above 5Year",4,5,2,5,2,2
+"273","Male","21 to 30 years","PHD","Gweru","Fourth",1,4,3,1,3,4
+"275","Male","21 to 30 years","Bachelors","Zvishavane","Third",5,1,2,5,2,2
+"276","Female","21 to 30 years","Masters","Zvishavane","First",4,2,2,3,3,3
+"277","Female","21 to 30 years","Masters","Gweru","First",4,2,1,2,1,2
+"279","Male","31 to 45 years","PHD",NA,"First",2,2,1,1,4,4
+"280","Male","31 to 45 years","Bachelors","Zvishavane","Third",2,1,3,4,1,4
+"282","Male","21 to 30 years","PHD","Gweru","Fourth",3,5,1,2,1,5
+"283","Male","31 to 45 years","Masters","Gweru","First",4,4,5,1,4,3
+"284","Female","31 to 45 years","Bachelors",NA,"Third",4,3,1,2,5,3
+"286","Male","21 to 30 years","Bachelors","Gweru","Fourth",5,2,1,3,5,3
+"287","Female","31 to 45 years","Masters",NA,"Above 5Year",3,2,3,5,2,3
+"289","Female","21 to 30 years","Masters","Gweru","Fifth",3,2,3,5,4,4
+"291","Male","21 to 30 years","Masters",NA,"Above 5Year",4,2,3,1,1,2
+"292","Female","21 to 30 years","Masters","Gweru","Third",3,3,2,2,4,3
+"293","Female","31 to 45 years","Undergraduate",NA,"Second",5,4,1,3,2,3
+"294","Male","31 to 45 years","Masters","Gweru","Above 5Year",1,2,3,1,3,5
+"295","Male","21 to 30 years","Masters","Zvishavane","Fifth",3,2,4,4,5,4
+"296","Female","31 to 45 years","Bachelors","Zvishavane","Fourth",1,4,2,4,4,1
+"298","Female","21 to 30 years","Masters","Gweru","Second",4,3,2,3,1,1
+"299","Female","31 to 45 years","Bachelors",NA,"Second",2,2,4,3,1,3
+"300","Male","31 to 45 years","PHD","Zvishavane","Fifth",2,2,1,2,1,1
+"303","Female","21 to 30 years","Undergraduate","Gweru","Fourth",3,2,4,5,1,4
+"305","Male","21 to 30 years","PHD",NA,"Third",3,4,1,5,3,4
+"306","Female","21 to 30 years","PHD","Gweru","Fourth",4,1,4,2,3,3
+"307","Female","31 to 45 years","Masters","Gweru","Fourth",2,4,3,2,4,3
+"308","Male","31 to 45 years","Bachelors","Zvishavane","First",4,3,2,1,3,2
+"310","Female","21 to 30 years","Undergraduate",NA,"Fifth",5,3,2,5,4,1
+"312","Male","21 to 30 years","PHD",NA,"Fourth",2,4,4,2,3,1
+"313","Male","21 to 30 years","Undergraduate","Gweru","Third",5,1,2,4,1,5
+"315","Male","21 to 30 years","PHD",NA,"Fourth",2,1,4,2,2,2
+"316","Female","21 to 30 years","Undergraduate","Zvishavane","Above 5Year",1,4,2,5,4,3
+"317","Male","21 to 30 years","Bachelors","Zvishavane","Second",4,2,1,4,2,1
+"319","Female","21 to 30 years","PHD","Gweru","Above 5Year",1,3,3,2,2,1
+"321","Female","31 to 45 years","Bachelors",NA,"Fourth",4,4,3,5,3,5
+"322","Female","21 to 30 years","Undergraduate","Gweru","Above 5Year",4,2,3,3,1,5
+"324","Female","21 to 30 years","PHD","Zvishavane","Third",5,4,3,2,1,3
+"327","Female","21 to 30 years","Bachelors",NA,"Above 5Year",1,5,2,3,5,3
+"328","Female","31 to 45 years","Bachelors",NA,"Fourth",1,4,3,5,4,5
+"329","Female","21 to 30 years","Bachelors","Gweru","Above 5Year",4,2,1,3,5,3
+"330","Male","31 to 45 years","Bachelors",NA,"Third",3,3,4,4,3,4
+"331","Male","31 to 45 years","Undergraduate","Gweru","Above 5Year",1,4,3,5,1,2
+"332","Female","21 to 30 years","Masters","Gweru","Third",4,3,2,1,5,2
+"333","Male","31 to 45 years","PHD","Gweru","Fifth",5,5,3,2,1,1
+"334","Male","21 to 30 years","Masters","Zvishavane","First",4,5,5,4,3,1
+"337","Female","31 to 45 years","PHD","Zvishavane","Second",4,5,3,3,2,2
+"338","Male","31 to 45 years","PHD","Zvishavane","Third",2,1,2,2,4,1
+"339","Female","31 to 45 years","Undergraduate",NA,"Second",2,2,1,4,2,3
+"340","Female","21 to 30 years","Undergraduate","Gweru","Fifth",1,5,2,4,2,2
+"341","Male","31 to 45 years","Bachelors","Gweru","Third",2,3,1,1,1,5
+"343","Male","31 to 45 years","PHD",NA,"Third",4,4,1,2,2,1
+"344","Male","21 to 30 years","Undergraduate",NA,"Fourth",3,2,5,5,2,4
+"346","Female","31 to 45 years","Undergraduate","Gweru","First",4,2,2,5,3,3
+"347","Male","31 to 45 years","Undergraduate",NA,"Fourth",3,5,3,1,5,2
+"348","Male","31 to 45 years","Undergraduate",NA,"Third",2,5,5,4,3,3
+"349","Female","21 to 30 years","Bachelors",NA,"Above 5Year",4,4,1,2,3,5
+"350","Male","31 to 45 years","Bachelors","Zvishavane","Fourth",5,5,3,1,5,1
+"351","Female","31 to 45 years","PHD","Gweru","Third",4,1,5,1,2,1
+"352","Female","21 to 30 years","Undergraduate",NA,"First",5,3,3,3,5,2
+"355","Female","21 to 30 years","PHD",NA,"Second",1,2,5,3,3,2
+"356","Male","31 to 45 years","Bachelors","Zvishavane","Above 5Year",5,1,4,4,3,3
+"357","Male","31 to 45 years","Masters",NA,"Fifth",4,4,3,4,4,2
+"360","Male","21 to 30 years","Masters","Zvishavane","Second",2,4,5,4,2,5
+"361","Female","21 to 30 years","PHD","Gweru","Fourth",5,5,2,4,5,2
+"363","Female","31 to 45 years","Masters","Zvishavane","Second",3,3,3,1,3,4
+"365","Male","21 to 30 years","Bachelors","Gweru","First",5,2,4,4,3,5
+"366","Female","21 to 30 years","Undergraduate","Gweru","Second",4,1,2,4,3,4
+"367","Male","31 to 45 years","Bachelors","Zvishavane","First",2,1,3,1,2,1
+"369","Male","21 to 30 years","Bachelors",NA,"Above 5Year",3,3,4,2,2,4
+"370","Female","31 to 45 years","Masters",NA,"Second",2,2,4,1,1,2
+"371","Female","31 to 45 years","PHD","Gweru","Fourth",5,3,4,1,5,4
+"372","Male","31 to 45 years","Undergraduate","Zvishavane","Fourth",4,1,1,4,5,3
+"373","Female","21 to 30 years","Undergraduate","Zvishavane","First",4,2,2,1,3,4
+"375","Male","21 to 30 years","PHD","Zvishavane","Third",2,4,1,4,3,3
+"376","Female","31 to 45 years","Undergraduate","Zvishavane","Third",5,4,5,1,4,4
+"378","Female","21 to 30 years","PHD","Gweru","Fifth",2,3,1,5,2,5
+"379","Female","21 to 30 years","Bachelors","Zvishavane","Third",1,3,4,1,5,4
+"380","Female","21 to 30 years","Bachelors","Zvishavane","Fourth",4,3,1,1,5,3
+"382","Female","31 to 45 years","PHD","Gweru","Second",3,4,3,5,5,2
+"384","Male","31 to 45 years","Undergraduate","Gweru","Above 5Year",2,2,5,5,2,2
+"385","Male","21 to 30 years","PHD",NA,"First",5,3,4,1,1,2
+"386","Female","31 to 45 years","Bachelors","Zvishavane","Third",1,5,5,5,3,2
+"387","Female","21 to 30 years","Bachelors",NA,"First",3,5,1,2,1,4
+"389","Female","31 to 45 years","PHD",NA,"Second",1,4,2,4,1,5
+"390","Female","31 to 45 years","Bachelors","Gweru","Second",5,2,1,1,4,1
+"391","Female","31 to 45 years","Bachelors",NA,"First",1,5,3,5,3,3
+"392","Female","31 to 45 years","Masters","Zvishavane","Second",5,1,1,1,4,1
+"393","Female","31 to 45 years","Undergraduate",NA,"Second",5,4,5,3,1,1
+"394","Female","21 to 30 years","Masters","Zvishavane","Fourth",4,1,5,1,4,3
+"395","Male","21 to 30 years","Bachelors",NA,"Above 5Year",3,1,4,3,5,5
+"397","Male","31 to 45 years","Bachelors","Zvishavane","Second",1,4,4,4,3,4
+"400","Female","31 to 45 years","Bachelors","Zvishavane","Fourth",1,4,5,4,5,3
+"401","Female","21 to 30 years","PHD","Gweru","Above 5Year",3,1,5,2,5,1
+"402","Male","21 to 30 years","Masters","Gweru","Fourth",4,1,2,5,5,3
+"403","Female","21 to 30 years","Masters","Zvishavane","First",1,4,4,1,4,2
+"404","Female","21 to 30 years","Undergraduate","Gweru","Third",5,3,4,2,2,4
+"405","Female","21 to 30 years","PHD","Gweru","Fourth",3,1,2,4,4,5
+"406","Female","21 to 30 years","Undergraduate",NA,"Fifth",3,1,4,1,5,2
+"408","Male","21 to 30 years","Bachelors","Zvishavane","Fourth",2,5,1,5,4,5
+"410","Male","21 to 30 years","Masters","Zvishavane","Second",3,1,3,5,5,5
+"411","Female","31 to 45 years","Masters","Gweru","Fourth",2,1,5,1,4,1
+"412","Male","31 to 45 years","Bachelors","Gweru","First",1,2,2,1,3,1
+"413","Male","31 to 45 years","PHD",NA,"Third",5,2,3,3,1,1
+"414","Female","21 to 30 years","PHD","Zvishavane","First",3,2,3,1,1,5
+"415","Male","31 to 45 years","Bachelors",NA,"Above 5Year",3,4,2,1,1,2
+"416","Female","21 to 30 years","Undergraduate","Gweru","Second",4,3,3,2,2,2
+"417","Male","21 to 30 years","Bachelors","Gweru","Second",3,5,3,4,2,4
+"418","Female","21 to 30 years","Undergraduate",NA,"First",1,1,3,4,2,1
+"419","Male","21 to 30 years","Masters","Zvishavane","Third",4,5,4,1,1,5
+"420","Female","31 to 45 years","Masters",NA,"First",3,2,5,1,3,2
+"421","Male","21 to 30 years","Undergraduate","Zvishavane","Above 5Year",2,5,2,4,1,5
+"422","Female","21 to 30 years","PHD",NA,"Fifth",1,2,4,5,3,1
+"423","Male","21 to 30 years","PHD","Gweru","Above 5Year",1,2,4,3,1,4
+"424","Female","21 to 30 years","PHD","Zvishavane","Fifth",4,5,1,1,4,2
+"426","Female","31 to 45 years","Masters",NA,"First",2,3,3,4,1,1
+"427","Male","21 to 30 years","Masters","Gweru","Above 5Year",2,1,4,5,1,5
+"431","Male","21 to 30 years","Bachelors",NA,"Second",2,1,3,5,4,3
+"433","Male","31 to 45 years","PHD",NA,"Second",5,2,5,5,5,3
+"435","Male","21 to 30 years","Masters","Zvishavane","Second",2,4,3,2,2,2
+"436","Female","31 to 45 years","Undergraduate",NA,"Above 5Year",1,5,5,2,3,4
+"437","Male","31 to 45 years","Bachelors","Zvishavane","Second",4,1,2,4,1,3
+"438","Female","31 to 45 years","Masters","Gweru","First",1,4,1,3,2,1
+"439","Female","31 to 45 years","Undergraduate",NA,"Second",4,5,3,1,3,3
+"440","Female","21 to 30 years","Masters",NA,"First",2,5,3,2,5,3
+"441","Male","31 to 45 years","PHD",NA,"Fifth",5,2,3,2,5,2
+"443","Male","21 to 30 years","Masters","Zvishavane","Fifth",1,1,2,5,4,3
+"445","Male","31 to 45 years","Undergraduate",NA,"Above 5Year",1,4,1,4,1,3
+"447","Female","21 to 30 years","Undergraduate",NA,"Fifth",4,5,3,4,3,3
+"448","Male","21 to 30 years","Bachelors",NA,"Third",2,3,2,4,5,3
+"449","Female","21 to 30 years","Bachelors","Zvishavane","Third",2,4,5,4,4,3
+"450","Female","21 to 30 years","Masters","Gweru","Fourth",2,2,4,3,2,1
+"451","Female","21 to 30 years","PHD","Gweru","Second",1,3,3,1,1,5
+"453","Male","31 to 45 years","PHD","Gweru","Second",3,5,4,4,1,4
+"455","Male","31 to 45 years","Undergraduate","Zvishavane","Third",3,1,2,1,4,5
+"457","Female","21 to 30 years","Undergraduate","Zvishavane","First",4,3,2,3,3,4
+"458","Female","31 to 45 years","PHD","Gweru","Fourth",4,4,3,1,4,3
+"459","Male","21 to 30 years","Masters","Zvishavane","Second",3,1,1,3,5,2
+"460","Male","21 to 30 years","Undergraduate",NA,"Above 5Year",1,4,5,1,1,5
+"461","Male","21 to 30 years","Masters",NA,"Third",5,2,1,4,4,3
+"462","Female","21 to 30 years","Bachelors","Gweru","Above 5Year",1,4,1,2,5,1
+"464","Female","21 to 30 years","PHD",NA,"Second",1,5,5,2,2,5
+"466","Female","21 to 30 years","PHD","Zvishavane","Fourth",2,4,1,4,5,5
+"467","Male","31 to 45 years","Masters",NA,"Second",2,4,3,2,1,1
+"469","Male","31 to 45 years","Bachelors","Zvishavane","Fifth",4,4,4,5,3,1
+"470","Male","21 to 30 years","Undergraduate",NA,"Fifth",4,5,5,3,1,3
+"473","Male","21 to 30 years","Masters","Zvishavane","Fifth",1,2,3,1,1,5
+"474","Female","31 to 45 years","Bachelors","Gweru","Third",3,2,4,3,4,4
+"476","Female","31 to 45 years","PHD","Gweru","Fifth",3,5,5,3,3,2
+"477","Female","21 to 30 years","PHD",NA,"First",2,1,1,2,5,5
+"480","Male","31 to 45 years","PHD",NA,"Above 5Year",2,1,3,4,3,1
+"481","Female","21 to 30 years","PHD","Zvishavane","Fifth",2,2,1,4,5,2
+"482","Male","21 to 30 years","PHD","Gweru","Fourth",5,4,3,1,4,4
+"483","Female","31 to 45 years","Undergraduate","Zvishavane","Third",4,1,5,2,1,1
+"484","Male","31 to 45 years","Bachelors","Gweru","Fifth",5,5,4,1,3,3
+"485","Female","21 to 30 years","Bachelors","Gweru","Third",3,1,4,2,1,4
+"486","Male","21 to 30 years","Undergraduate","Gweru","Second",2,4,5,2,4,5
+"487","Female","31 to 45 years","Undergraduate","Zvishavane","Fifth",2,4,5,5,2,2
+"488","Male","31 to 45 years","Undergraduate","Gweru","Second",2,4,4,2,5,3
+"489","Female","21 to 30 years","PHD","Gweru","First",5,2,4,3,1,5
+"490","Male","31 to 45 years","Undergraduate",NA,"Second",3,2,5,3,2,1
+"492","Female","21 to 30 years","Undergraduate",NA,"First",3,2,5,1,5,2
+"493","Female","31 to 45 years","Masters",NA,"Above 5Year",4,1,2,1,5,5
+"494","Female","31 to 45 years","Bachelors","Gweru","Above 5Year",1,4,1,1,4,3
+"496","Male","21 to 30 years","Undergraduate","Zvishavane","Fifth",2,4,3,2,2,1
+"497","Female","21 to 30 years","Masters","Zvishavane","Above 5Year",4,5,3,3,4,1
+"499","Male","21 to 30 years","PHD",NA,"Second",1,2,2,2,5,5
+"500","Male","21 to 30 years","PHD","Gweru","Above 5Year",2,2,5,4,5,4
+"503","Male","21 to 30 years","Bachelors","Gweru","First",2,4,4,5,4,4
+"505","Male","31 to 45 years","Bachelors","Zvishavane","First",1,3,1,4,5,5
+"506","Female","21 to 30 years","PHD","Zvishavane","Above 5Year",3,4,1,2,3,4
+"507","Female","31 to 45 years","Bachelors",NA,"Second",2,1,3,3,4,4
+"508","Female","21 to 30 years","Bachelors",NA,"Above 5Year",1,1,1,2,5,3
+"509","Female","31 to 45 years","Undergraduate",NA,"Fifth",4,1,1,3,2,3
+"510","Female","21 to 30 years","PHD",NA,"First",2,2,2,5,5,5
+"511","Male","31 to 45 years","PHD","Zvishavane","Second",1,1,5,1,1,5
+"512","Male","21 to 30 years","Bachelors",NA,"Fifth",1,2,2,2,3,4
+"513","Male","31 to 45 years","Undergraduate","Gweru","Fifth",2,5,2,4,2,5
+"514","Female","21 to 30 years","Bachelors","Zvishavane","Above 5Year",5,4,4,1,1,5
+"515","Male","31 to 45 years","PHD","Zvishavane","First",3,1,1,5,3,5
+"516","Female","21 to 30 years","PHD",NA,"Fifth",3,4,5,2,2,5
+"517","Male","21 to 30 years","Bachelors","Gweru","Second",4,3,4,4,4,3
+"518","Male","21 to 30 years","PHD","Gweru","Third",1,1,1,4,4,5
+"520","Male","21 to 30 years","Bachelors",NA,"Fifth",5,5,5,2,4,3
+"521","Female","21 to 30 years","Masters","Zvishavane","Fourth",4,1,5,1,5,4
+"523","Male","21 to 30 years","PHD",NA,"First",3,2,4,3,1,1
+"525","Male","21 to 30 years","Undergraduate",NA,"Fourth",1,3,5,5,1,3
+"526","Male","21 to 30 years","Masters","Zvishavane","First",4,3,2,5,3,4
+"527","Female","21 to 30 years","PHD","Zvishavane","Above 5Year",4,3,2,4,5,5
+"528","Male","31 to 45 years","Undergraduate","Zvishavane","Second",5,5,2,1,4,3
+"529","Female","31 to 45 years","Undergraduate","Zvishavane","Third",1,4,5,2,3,5
+"531","Female","21 to 30 years","PHD","Zvishavane","Second",3,4,2,4,4,1
+"532","Male","31 to 45 years","Bachelors",NA,"First",4,5,1,5,1,1
+"533","Male","21 to 30 years","Masters","Zvishavane","First",2,2,1,2,3,1
+"535","Female","21 to 30 years","Undergraduate","Gweru","First",2,5,1,5,4,1
+"536","Male","31 to 45 years","Bachelors","Gweru","Second",3,5,1,4,1,2
+"537","Male","21 to 30 years","PHD",NA,"Fourth",2,5,4,4,1,3
+"538","Male","21 to 30 years","Bachelors","Zvishavane","First",2,5,1,1,3,4
+"539","Female","21 to 30 years","Undergraduate",NA,"Above 5Year",2,3,4,3,1,4
+"540","Male","31 to 45 years","PHD",NA,"Third",5,3,5,3,4,5
+"541","Male","31 to 45 years","Masters","Gweru","Fourth",5,4,3,5,2,5
+"542","Male","21 to 30 years","Masters",NA,"Second",5,5,2,1,1,3
+"543","Female","31 to 45 years","Bachelors","Zvishavane","Third",2,5,3,2,4,1
+"544","Female","31 to 45 years","PHD","Gweru","Fourth",2,1,3,3,3,1
+"546","Female","31 to 45 years","Undergraduate","Zvishavane","Fourth",1,2,2,2,2,1
+"547","Female","31 to 45 years","PHD","Gweru","Second",1,2,2,2,1,4
+"548","Female","21 to 30 years","PHD","Zvishavane","Above 5Year",4,4,1,2,4,5
+"549","Male","21 to 30 years","PHD","Zvishavane","Third",1,3,2,1,2,1
+"551","Female","21 to 30 years","Undergraduate","Zvishavane","First",1,5,2,4,2,1
+"552","Female","21 to 30 years","Masters","Gweru","First",3,1,5,3,4,5
+"555","Female","31 to 45 years","Masters",NA,"Second",2,3,3,3,5,1
+"556","Male","21 to 30 years","Masters","Zvishavane","Fourth",1,4,5,1,4,5
+"557","Female","31 to 45 years","Bachelors","Zvishavane","Fifth",5,4,3,4,3,3
+"558","Female","31 to 45 years","Masters","Gweru","First",4,4,5,2,2,4
+"559","Female","31 to 45 years","Masters","Gweru","Fourth",5,2,5,1,1,1
+"560","Female","31 to 45 years","PHD","Zvishavane","Third",1,3,2,2,2,4
+"562","Female","21 to 30 years","PHD","Gweru","Fifth",4,1,1,3,5,5
+"563","Female","21 to 30 years","Bachelors",NA,"Third",5,1,4,5,2,2
+"564","Female","21 to 30 years","Undergraduate","Zvishavane","Second",5,4,1,1,5,5
+"566","Male","31 to 45 years","Bachelors","Gweru","Above 5Year",2,2,4,5,5,5
+"567","Female","21 to 30 years","Masters","Zvishavane","Third",1,3,1,1,3,2
+"568","Female","31 to 45 years","Masters","Zvishavane","First",1,2,3,3,4,5
+"570","Male","31 to 45 years","Masters",NA,"Second",4,5,2,3,2,3
+"571","Male","21 to 30 years","PHD",NA,"Fourth",1,4,1,3,5,5
+"572","Male","31 to 45 years","PHD","Zvishavane","Third",4,4,4,3,5,4
+"573","Female","31 to 45 years","Masters","Zvishavane","Fifth",5,3,1,3,3,3
+"574","Male","21 to 30 years","PHD","Gweru","Second",3,5,1,4,2,4
+"575","Male","31 to 45 years","Bachelors","Gweru","Third",3,3,2,2,1,5
+"576","Female","21 to 30 years","Masters","Zvishavane","First",4,2,1,5,1,3
+"577","Male","21 to 30 years","Undergraduate","Zvishavane","Second",5,1,4,4,2,3
+"578","Male","21 to 30 years","PHD","Gweru","First",1,5,4,5,5,2
+"582","Female","21 to 30 years","PHD","Zvishavane","Above 5Year",4,1,1,4,5,5
+"583","Male","21 to 30 years","Bachelors",NA,"Fifth",2,2,3,2,2,3
+"584","Male","21 to 30 years","Undergraduate",NA,"Fourth",1,2,5,2,1,3
+"585","Male","31 to 45 years","Undergraduate","Zvishavane","Above 5Year",1,1,1,5,4,2
+"587","Male","21 to 30 years","Bachelors",NA,"Fourth",2,3,5,1,2,4
+"588","Female","31 to 45 years","Undergraduate","Gweru","Above 5Year",4,4,5,5,1,5
+"589","Female","21 to 30 years","Masters","Gweru","First",4,3,3,2,3,5
+"590","Male","21 to 30 years","Masters","Zvishavane","Third",1,5,2,1,4,5
+"591","Male","31 to 45 years","PHD","Gweru","First",4,4,1,1,5,2
+"592","Male","31 to 45 years","PHD","Zvishavane","Third",5,1,5,2,5,3
+"593","Male","31 to 45 years","PHD","Gweru","Above 5Year",3,3,3,5,2,5
+"595","Male","21 to 30 years","Masters","Zvishavane","Above 5Year",3,1,5,2,4,1
+"597","Female","21 to 30 years","Undergraduate","Zvishavane","Fourth",4,1,3,1,3,5
+"602","Male","31 to 45 years","Masters",NA,"Fifth",2,4,5,5,5,2
+"605","Female","21 to 30 years","Bachelors","Zvishavane","First",2,3,5,2,2,3
+"606","Female","31 to 45 years","Bachelors","Zvishavane","Above 5Year",3,3,1,1,3,5
+"609","Male","31 to 45 years","Bachelors","Gweru","First",5,1,3,3,2,4
+"610","Male","21 to 30 years","PHD",NA,"Fourth",1,5,1,4,4,4
+"611","Male","21 to 30 years","Bachelors","Gweru","Above 5Year",5,5,1,3,5,4
+"612","Female","31 to 45 years","PHD",NA,"Second",2,3,3,3,5,1
+"614","Male","31 to 45 years","Undergraduate","Zvishavane","Third",4,4,5,2,4,3
+"615","Female","21 to 30 years","PHD","Gweru","Fourth",4,2,1,1,4,3
+"616","Male","21 to 30 years","Masters",NA,"Third",5,4,4,1,5,3
+"617","Female","31 to 45 years","Masters","Zvishavane","Fourth",5,2,2,2,4,2
+"618","Female","21 to 30 years","PHD",NA,"Second",1,4,3,1,5,1
+"619","Male","21 to 30 years","Undergraduate","Zvishavane","Fifth",1,2,1,1,1,2
+"620","Female","21 to 30 years","Masters","Zvishavane","Second",5,4,5,1,2,1
+"621","Male","31 to 45 years","Bachelors","Zvishavane","Fourth",2,3,3,1,5,4
+"622","Male","31 to 45 years","Undergraduate","Zvishavane","Above 5Year",2,5,5,2,1,5
+"623","Male","31 to 45 years","Undergraduate",NA,"First",1,5,1,5,1,1
+"624","Female","31 to 45 years","PHD",NA,"First",3,4,5,5,3,3
+"626","Female","21 to 30 years","Undergraduate","Zvishavane","Fourth",5,2,2,1,5,1
+"627","Male","31 to 45 years","Undergraduate","Zvishavane","First",5,5,5,3,5,1
+"628","Female","21 to 30 years","Undergraduate","Zvishavane","Second",4,5,4,4,5,1
+"630","Female","21 to 30 years","PHD","Gweru","Fourth",4,2,3,4,2,2
+"634","Female","21 to 30 years","Masters",NA,"Fourth",4,4,2,4,2,5
+"635","Female","21 to 30 years","Undergraduate","Gweru","Fifth",2,5,3,2,2,5
+"636","Male","21 to 30 years","Undergraduate",NA,"Fifth",4,2,5,1,5,5
+"637","Male","21 to 30 years","Masters","Gweru","Third",3,4,4,1,4,2
+"638","Male","21 to 30 years","PHD",NA,"Second",4,4,3,2,4,1
+"639","Female","21 to 30 years","Undergraduate",NA,"Second",2,2,4,2,2,4
+"642","Male","31 to 45 years","Masters",NA,"Above 5Year",4,3,1,3,5,1
+"644","Male","31 to 45 years","Masters",NA,"Fifth",5,5,2,3,2,1
+"647","Male","21 to 30 years","PHD","Zvishavane","Fifth",2,5,3,2,5,3
+"648","Female","31 to 45 years","Masters",NA,"Above 5Year",2,5,4,4,3,5
+"649","Male","21 to 30 years","Undergraduate",NA,"Fifth",5,1,4,4,1,1
+"650","Male","31 to 45 years","Bachelors",NA,"First",4,4,1,1,5,5
+"651","Female","21 to 30 years","Masters","Zvishavane","Above 5Year",2,2,4,4,5,5
+"653","Male","21 to 30 years","Undergraduate",NA,"First",2,2,4,5,1,2
+"654","Female","21 to 30 years","Bachelors",NA,"Fourth",2,1,5,2,5,5
+"655","Female","31 to 45 years","Bachelors","Gweru","Third",4,2,3,4,4,2
+"656","Male","21 to 30 years","Masters","Gweru","Fourth",4,1,2,5,2,1
+"658","Male","21 to 30 years","Bachelors",NA,"Above 5Year",4,2,1,4,2,1
+"659","Female","31 to 45 years","PHD","Zvishavane","Second",1,3,4,2,2,5
+"661","Female","21 to 30 years","PHD","Gweru","First",5,1,1,2,2,3
+"662","Female","21 to 30 years","Masters",NA,"Fourth",1,5,4,3,2,4
+"664","Female","31 to 45 years","PHD",NA,"Above 5Year",4,3,3,2,4,4
+"665","Male","31 to 45 years","PHD","Gweru","First",5,5,5,5,5,4
+"666","Male","21 to 30 years","PHD","Zvishavane","First",3,5,1,1,1,4
+"668","Female","21 to 30 years","PHD",NA,"First",4,4,5,2,1,5
+"669","Male","31 to 45 years","Undergraduate",NA,"Fourth",5,1,3,2,4,3
+"670","Female","21 to 30 years","Undergraduate","Gweru","Second",5,2,3,4,5,4
+"671","Female","21 to 30 years","Masters","Zvishavane","Third",2,5,5,1,4,4
+"672","Female","31 to 45 years","PHD",NA,"First",3,4,2,2,5,5
+"673","Male","31 to 45 years","Bachelors","Gweru","First",1,3,3,3,5,2
+"675","Male","31 to 45 years","Masters",NA,"First",2,5,5,3,1,5
+"676","Male","21 to 30 years","Undergraduate","Gweru","Second",1,5,3,2,3,5
+"678","Male","21 to 30 years","Bachelors",NA,"Above 5Year",3,2,3,4,5,3
+"679","Male","21 to 30 years","Undergraduate","Zvishavane","Fourth",5,1,3,4,4,2
+"681","Female","31 to 45 years","Masters",NA,"Above 5Year",5,1,2,1,5,3
+"682","Female","31 to 45 years","Bachelors","Gweru","Above 5Year",1,2,1,4,5,2
+"683","Female","31 to 45 years","PHD",NA,"Fifth",2,2,3,1,4,5
+"684","Female","31 to 45 years","PHD","Zvishavane","Above 5Year",3,4,5,2,3,5
+"685","Male","31 to 45 years","Bachelors","Zvishavane","Fifth",5,5,2,2,1,2
+"686","Female","21 to 30 years","Bachelors","Zvishavane","Fifth",5,1,5,2,4,5
+"687","Female","31 to 45 years","Undergraduate","Zvishavane","Fifth",3,4,1,5,2,3
+"688","Male","21 to 30 years","Masters","Zvishavane","Above 5Year",4,1,5,5,2,1
+"689","Male","31 to 45 years","PHD","Gweru","First",2,1,1,4,2,1
+"692","Female","21 to 30 years","Undergraduate","Zvishavane","Second",1,2,2,3,2,5
+"693","Male","31 to 45 years","Bachelors","Zvishavane","First",5,5,1,4,4,4
+"694","Female","21 to 30 years","Undergraduate",NA,"Fifth",5,3,2,1,5,4
+"695","Female","21 to 30 years","Bachelors",NA,"Fourth",1,2,4,1,4,1
+"696","Male","31 to 45 years","PHD","Gweru","Fifth",1,1,5,4,4,4
+"698","Male","21 to 30 years","PHD",NA,"Fifth",5,5,3,1,2,3
+"699","Male","31 to 45 years","Undergraduate","Gweru","Third",2,2,2,1,4,2
+"700","Male","31 to 45 years","Bachelors","Zvishavane","Fifth",3,4,5,5,4,1
