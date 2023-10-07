@@ -12,6 +12,10 @@ Level_of_study<-trunc(runif(700,1,5))
 MSU_Campus<-trunc(runif(700,1,4))
 Y.o.S<-trunc(runif(700,1,7))
 Working_memory<-trunc(runif(700,1,6))
+ICT<-trunc(runif(700,1,6))
+Working_memory<-trunc(runif(700,1,6))
+Working_memory<-trunc(runif(700,1,6))
+Working_memory<-trunc(runif(700,1,6))
 intention<-trunc(runif(700,1,6))
 Technology_perception<-trunc(runif(700,1,6))
 accessibility<-trunc(runif(700,1,6))
@@ -19,7 +23,47 @@ Technical_support<-trunc(runif(700,1,6))
 Time<-trunc(runif(700,1,6))
 
 #Create a data frame
-Covid_no<-data.frame(Gender,Age,Level_of_study,MSU_Campus,Y.o.S,Working_memory,intention,Technology_perception,accessibility,Technical_support,Time)
+Covid_no<-data.frame(Gender,Age,Level_of_study,MSU_Campus,Y.o.S,
+                     ICT.guidelines.are.written.in.simple.language =trunc(runif(700,1,6)),
+                     There.is.a.stepbystep=trunc(runif(700,1,6)),
+                     Technology.connect.well.with.my.classroom.jpractise=trunc(runif(700,1,6)),
+                     I.learn.more.when.a.good.technological.resource =trunc(runif(700,1,6)),
+                     
+                     
+                   
+                     
+                     I.can.comfortably.operate.a.computer.system.without.assistance=trunc(runif(700,1,6)),
+                     I.have.to.gain.approval.from.others.before.I.can.use.a.new.technology.in.class=trunc(runif(700,1,6)),
+                     I.would.like.to.continue.using.online.platforms.at.school=trunc(runif(700,1,6)),
+                     ICT.Platforms.are.easy.to.navigate =trunc(runif(700,1,6)),
+                    
+                     
+                     Education.technology.is.overrated.rather.I.prefer.traditional.education =trunc(runif(700,1,6)),
+                     Utilizing.ICT.in.education.without.prior.skill.is.scary =trunc(runif(700,1,6)),
+                     I.hesitate.to.use.technology.for.fear.of.making.mistakes.that.I.cannot.correct =trunc(runif(700,1,6)),
+                     I.think.that.learning.should.incorporate.websites.apps.and.other.technological.resources.because.technology.is.a.part.of.our.society =trunc(runif(700,1,6)),
+                     I.think.that.learning.should.incorporate.AI.technologyis.a.part.of.our.society=trunc(runif(700,1,6)),
+                     
+                     
+                     I.have.access.to.computer.at.school.and.at.home=trunc(runif(700,1,6)),
+                     I.have.access.to.a.reliable.internet.connection=trunc(runif(700,1,6)),
+                     I.can.easily.log.into.the.Google.Class.Platform=trunc(runif(700,1,6)),
+                     It.is.easy.for.me.to.find.and.use.new.learning.resources.websites.and.apps.for.teaching.learning=trunc(runif(700,1,6)),
+                     It.is.easy.for.me.to.find.and.use.new.learning.resources.AI.for.teaching.and.learning=trunc(runif(700,1,6)),
+                     
+                     
+                     When.I.have.a.problem.with.a.technological.tool.I.receive.quick.and.effective.assistance=trunc(runif(700,1,6)),
+                     The.Lecturers.have.been.helpful.in.promoting.the.use.of.technology.in.class=trunc(runif(700,1,6)),
+                     My.school.must.follow.a.long.process.to.gain.approval.before.purchasing.a.new.technology=trunc(runif(700,1,6)),
+                     I.receive.regular.training.on.how.to.use.technology.in.class=trunc(runif(700,1,6)),
+                     I.receive.regular.training.on.how.to.use.AI.in.class=trunc(runif(700,1,6)),
+                     
+                     
+                     `Education technology enables me to be in class at home hence saving on traveling time`=trunc(runif(700,1,6)),
+                     `I have extra time to think about how to use technology in my classes `=trunc(runif(700,1,6)),
+                     `I have enough time to plan and prepare lessons that use technology`=trunc(runif(700,1,6)),
+                     `Online classes do not give enough time for interaction with lecturer and other students`=trunc(runif(700,1,6))
+                     )
 Covid_no %>% summary()
 Covid_no %>% mutate(Gender=ifelse(Gender==1,"Male","Female"),Age=case_when(
   Age<=30~"21 to 30 years",
@@ -49,6 +93,8 @@ Covid_no %>% mutate(Gender=ifelse(Gender==1,"Male","Female"),Age=case_when(
 ```{r}
 data=sample.split(Covid_data$Gender,SplitRatio = 5/7)
 Final_data<-Covid_data[data,]
+names(Final_data)
+dim(Final_data)
 write.csv(Final_data,"Covid19_data.csv")
 ```
 
